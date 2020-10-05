@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome to my GitHub! 👋👋
 
-<!--
-**aiborra11/aiborra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Alejandro, another one of those people who realised that _"Without data, you are just another person with an opinion", (W. Edwards Demin)._
 
-Here are some ideas to get you started:
+Got tired of always trying to learn about everything and losing money in the financial markets so decided to take action and learn about data analytics. The only discipline that could allow me to partially control these two big pillars in my life. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about Technology, Business & Finance since childhood. Currently involved in Data Science, Entrepreneurship & Trading the Financial Markets.
+
+✔Python (Pandas, Numpy, Scipy) ✔Databases (MySQL, MongoDB) ✔Visualization (Matplotlib, Seaborn, Folium, Tableau, PowerBI) ✔Machine Learning (Scikit-Learn, PCA) ✔Time-Series (ARIMA, Prophet) ✔NLP ✔Web Scrapping ✔APIs ✔Docker ✔Git version control ✔Javascript ✔Django ✔AutoML (H2O)
+
+https://www.linkedin.com/in/aiborra/
+
+Keeping away from my comfort zone. Sports, nutrition, adventures, challenges and constant learning. 
+
