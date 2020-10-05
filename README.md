@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 👋👋
 
-Another one of those people who realised that _**"Without data, you are just another person with an opinion"**, (W. Edwards Demin)._ 🤔🤔
+Another one of those people who realised that _**"Without data, you are just a person with an opinion"**, (W. Edwards Demin)._ 🤔🤔
 
 Got tired of always trying to learn about everything and losing money in the financial markets so decided to take action and learn about data analytics. The only discipline that could allow me to slightly control these two big pillars in my life. 
 
